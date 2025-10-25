@@ -7,4 +7,4 @@ while user_input != 0:
 
 accumlation = sum(user_input_cal)
 
-print("目前累加的總數為: ", accumlation)
+print("目前累加的總數為: ", accumlation) 
